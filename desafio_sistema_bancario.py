@@ -87,9 +87,6 @@ while True:
 
     # Extrato
 
-    # O extrato possui um limite de 1000 unidades.
-
-
     elif opcao == '3':
 
         print("\n############# EXTRATO #############")
