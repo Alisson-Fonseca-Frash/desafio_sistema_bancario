@@ -13,7 +13,7 @@ _Criar um sistema bancário com as operações: `sacar`, `depositar` e `visualiz
 
 #### Como eu fiz:
 
-* **Ressaltando que, usei alguns outros comando por fora do que aprendi em aula.**
+* **Ressaltando que, usei alguns outros comandos por fora do que aprendi em aula.**
   
   Ex:
   
